@@ -1,5 +1,6 @@
 {
   "name": "Twilio.org Rapid Response Kit",
+  "stack": "heroku-18"
   "description": "The Twilio-powered Rapid Response Kit gives you the elements to build and deploy communications apps quickly and easily.",
   "logo": "https://www.twilio.com/bundles/marketing/img/logos/wordmark-red.svg",
   "repository": "https://github.com/Twilio-org/rapid-response-kit",
