@@ -1,0 +1,106 @@
+action: GLOB, msg: packaging
+cwd: C:\Users\Tbox2\PycharmProjects\rapid-response-kit
+cmd: 'c:\program files\python38\python.exe' setup.py sdist --formats=zip --dist-dir 'C:\Users\Tbox2\PycharmProjects\rapid-response-kit\.tox\dist'
+running sdist
+running egg_info
+creating rapid_response_kit.egg-info
+writing rapid_response_kit.egg-info\PKG-INFO
+writing dependency_links to rapid_response_kit.egg-info\dependency_links.txt
+writing top-level names to rapid_response_kit.egg-info\top_level.txt
+writing manifest file 'rapid_response_kit.egg-info\SOURCES.txt'
+reading manifest file 'rapid_response_kit.egg-info\SOURCES.txt'
+writing manifest file 'rapid_response_kit.egg-info\SOURCES.txt'
+running check
+warning: check: missing required meta-data: url
+
+creating rapid_response_kit-1.0.0
+creating rapid_response_kit-1.0.0\rapid_response_kit
+creating rapid_response_kit-1.0.0\rapid_response_kit.egg-info
+creating rapid_response_kit-1.0.0\rapid_response_kit\tools
+creating rapid_response_kit-1.0.0\rapid_response_kit\utils
+creating rapid_response_kit-1.0.0\tests
+copying files to rapid_response_kit-1.0.0...
+copying setup.py -> rapid_response_kit-1.0.0
+copying rapid_response_kit\__init__.py -> rapid_response_kit-1.0.0\rapid_response_kit
+copying rapid_response_kit\app.py -> rapid_response_kit-1.0.0\rapid_response_kit
+copying rapid_response_kit.egg-info\PKG-INFO -> rapid_response_kit-1.0.0\rapid_response_kit.egg-info
+copying rapid_response_kit.egg-info\SOURCES.txt -> rapid_response_kit-1.0.0\rapid_response_kit.egg-info
+copying rapid_response_kit.egg-info\dependency_links.txt -> rapid_response_kit-1.0.0\rapid_response_kit.egg-info
+copying rapid_response_kit.egg-info\top_level.txt -> rapid_response_kit-1.0.0\rapid_response_kit.egg-info
+copying rapid_response_kit\tools\__init__.py -> rapid_response_kit-1.0.0\rapid_response_kit\tools
+copying rapid_response_kit\tools\autorespond.py -> rapid_response_kit-1.0.0\rapid_response_kit\tools
+copying rapid_response_kit\tools\broadcast.py -> rapid_response_kit-1.0.0\rapid_response_kit\tools
+copying rapid_response_kit\tools\conference_line.py -> rapid_response_kit-1.0.0\rapid_response_kit\tools
+copying rapid_response_kit\tools\forward.py -> rapid_response_kit-1.0.0\rapid_response_kit\tools
+copying rapid_response_kit\tools\noticeboard.py -> rapid_response_kit-1.0.0\rapid_response_kit\tools
+copying rapid_response_kit\tools\ringdown.py -> rapid_response_kit-1.0.0\rapid_response_kit\tools
+copying rapid_response_kit\tools\simplehelp.py -> rapid_response_kit-1.0.0\rapid_response_kit\tools
+copying rapid_response_kit\tools\survey.py -> rapid_response_kit-1.0.0\rapid_response_kit\tools
+copying rapid_response_kit\tools\town_hall.py -> rapid_response_kit-1.0.0\rapid_response_kit\tools
+copying rapid_response_kit\tools\volunteer_signup.py -> rapid_response_kit-1.0.0\rapid_response_kit\tools
+copying rapid_response_kit\utils\__init__.py -> rapid_response_kit-1.0.0\rapid_response_kit\utils
+copying rapid_response_kit\utils\clients.py -> rapid_response_kit-1.0.0\rapid_response_kit\utils
+copying rapid_response_kit\utils\compat.py -> rapid_response_kit-1.0.0\rapid_response_kit\utils
+copying rapid_response_kit\utils\config.py -> rapid_response_kit-1.0.0\rapid_response_kit\utils
+copying rapid_response_kit\utils\helpers.py -> rapid_response_kit-1.0.0\rapid_response_kit\utils
+copying rapid_response_kit\utils\registry.py -> rapid_response_kit-1.0.0\rapid_response_kit\utils
+copying tests\__init__.py -> rapid_response_kit-1.0.0\tests
+copying tests\base.py -> rapid_response_kit-1.0.0\tests
+copying tests\test_autorespond.py -> rapid_response_kit-1.0.0\tests
+copying tests\test_broadcast.py -> rapid_response_kit-1.0.0\tests
+copying tests\test_conference_line.py -> rapid_response_kit-1.0.0\tests
+copying tests\test_forward.py -> rapid_response_kit-1.0.0\tests
+copying tests\test_noticeboard.py -> rapid_response_kit-1.0.0\tests
+copying tests\test_ringdown.py -> rapid_response_kit-1.0.0\tests
+copying tests\test_simplehelp.py -> rapid_response_kit-1.0.0\tests
+copying tests\test_survey.py -> rapid_response_kit-1.0.0\tests
+copying tests\test_town_hall.py -> rapid_response_kit-1.0.0\tests
+copying tests\test_volunteer_signup.py -> rapid_response_kit-1.0.0\tests
+Writing rapid_response_kit-1.0.0\setup.cfg
+creating C:\Users\Tbox2\PycharmProjects\rapid-response-kit\.tox\dist
+creating 'C:\Users\Tbox2\PycharmProjects\rapid-response-kit\.tox\dist\rapid_response_kit-1.0.0.zip' and adding 'rapid_response_kit-1.0.0' to it
+adding 'rapid_response_kit-1.0.0'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit.egg-info'
+adding 'rapid_response_kit-1.0.0\tests'
+adding 'rapid_response_kit-1.0.0\PKG-INFO'
+adding 'rapid_response_kit-1.0.0\setup.cfg'
+adding 'rapid_response_kit-1.0.0\setup.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\tools'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\utils'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\app.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\__init__.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\tools\autorespond.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\tools\broadcast.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\tools\conference_line.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\tools\forward.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\tools\noticeboard.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\tools\ringdown.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\tools\simplehelp.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\tools\survey.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\tools\town_hall.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\tools\volunteer_signup.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\tools\__init__.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\utils\clients.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\utils\compat.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\utils\config.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\utils\helpers.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\utils\registry.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit\utils\__init__.py'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit.egg-info\dependency_links.txt'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit.egg-info\PKG-INFO'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit.egg-info\SOURCES.txt'
+adding 'rapid_response_kit-1.0.0\rapid_response_kit.egg-info\top_level.txt'
+adding 'rapid_response_kit-1.0.0\tests\base.py'
+adding 'rapid_response_kit-1.0.0\tests\test_autorespond.py'
+adding 'rapid_response_kit-1.0.0\tests\test_broadcast.py'
+adding 'rapid_response_kit-1.0.0\tests\test_conference_line.py'
+adding 'rapid_response_kit-1.0.0\tests\test_forward.py'
+adding 'rapid_response_kit-1.0.0\tests\test_noticeboard.py'
+adding 'rapid_response_kit-1.0.0\tests\test_ringdown.py'
+adding 'rapid_response_kit-1.0.0\tests\test_simplehelp.py'
+adding 'rapid_response_kit-1.0.0\tests\test_survey.py'
+adding 'rapid_response_kit-1.0.0\tests\test_town_hall.py'
+adding 'rapid_response_kit-1.0.0\tests\test_volunteer_signup.py'
+adding 'rapid_response_kit-1.0.0\tests\__init__.py'
+removing 'rapid_response_kit-1.0.0' (and everything under it)
